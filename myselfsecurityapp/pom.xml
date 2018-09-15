@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <!-- 父模块信息 -->
+    <parent>
+        <artifactId>myself-security</artifactId>
+        <groupId>com.myself.security</groupId>
+        <version>1.0-SNAPSHOT</version>
+        <relativePath>../myselfsecurity</relativePath>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>myself-security-app</artifactId>
+
+    <!-- 引入core核心代码组件 -->
+    <dependencies>
+        <dependency>
+            <groupId>com.myself.security</groupId>
+            <artifactId>myself-security-core</artifactId>
+            <version>${myself.security.version}</version>
+        </dependency>
+    </dependencies>
+
+</project>

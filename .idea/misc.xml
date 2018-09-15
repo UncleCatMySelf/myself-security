@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/myselfsecurity/pom.xml" />
+        <option value="$PROJECT_DIR$/myselfsecuritybrowser/pom.xml" />
+        <option value="$PROJECT_DIR$/myselfsecurityapp/pom.xml" />
+        <option value="$PROJECT_DIR$/myselfsecuritycore/pom.xml" />
+        <option value="$PROJECT_DIR$/myselfsecuritydemo/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_9" default="false" project-jdk-name="1.8 (1)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

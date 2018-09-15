@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="myselfsecurityapp" />
+        <module name="myselfsecuritybrowser" />
+        <module name="myselfsecuritycore" />
+        <module name="myselfsecuritydemo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="myselfsecurity" target="1.8" />
+      <module name="myselfsecurityapp" target="1.8" />
+      <module name="myselfsecuritybrowser" target="1.8" />
+      <module name="myselfsecuritycore" target="1.8" />
+      <module name="myselfsecuritydemo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,4 @@
+# 暂时关闭Spring session
+spring:
+  session:
+    store-type: none
